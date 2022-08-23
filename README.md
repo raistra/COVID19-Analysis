@@ -1,2 +1,2 @@
 # COVID19-Mobility Analysis
-Preprocessing, EDA, and modelling of COVID-19 data
+Preprocessing, EDA, and modelling of COVID-19 data along with Google Mobility data
