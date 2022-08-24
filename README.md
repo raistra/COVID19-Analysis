@@ -15,7 +15,7 @@ The [second dataset](https://www.google.com/covid19/mobility/) provides data on 
 - Dropping duplicate rows/missing values
 - Detecting outliers
 - Merging data sets
-- Filtering the data set per month
+- Sorting the data set per month
 
 ## Summary of Findings
 - Initial analysis indicates the relationship between number of daily positive cases of Covid-19 and the mobility variables are not linear. The relationship between the response variable and the independent variable has a negative correlation, therefore it can be said that when the number of daily positive cases of Covid-19 has decreased, the mobility of the Indonesian people tends to increase.
