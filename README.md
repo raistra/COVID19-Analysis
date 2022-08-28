@@ -22,5 +22,5 @@ The [second dataset](https://www.google.com/covid19/mobility/) provides data on 
 
 - Further investigation revealed a significant response for number of daily positive cases of Covid-19 from parks, transit stations, and workplaces.
 
-- Using the Negative Binomial Regression we were able to create a regression model that describes the relation of mobility activities that affect the number of daily positive cases of Covid-19 in 2022
+- Using the **Negative Binomial Regression** we were able to create a regression model that describes the relation of mobility activities that affect the number of daily positive cases of Covid-19 in 2022
 
