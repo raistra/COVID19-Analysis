@@ -1,6 +1,6 @@
 # COVID-19 Mobility Analysis
 ## Project Overview
-We wanted to explore how COVID-19 was impacting mobility in Jakarta since 2022 and explore what efforts should be taken to improve the country as a whole.
+This project explores the relationship between the number of daily positive cases of COVID-19 and several types of mobility levels in Jakarta. Correlation analysis is used to determine the correlation between these two variables. The results of this analysis provide insights into the impact of mobility on the spread of COVID-19 in Jakarta, and may inform public health policies aimed at controlling the spread of the virus. This project provides a valuable contribution to the understanding of the interplay between mobility and the spread of COVID-19, and can inform decision making to mitigate its impact
 
 ## Datasets
 Two datasets were used for analysis.
